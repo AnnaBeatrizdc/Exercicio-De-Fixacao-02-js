@@ -52,4 +52,4 @@ const maiorValor = (num1, num2, num3) => {
 
 console.log("O maior é", maiorValor(5,6,3));
 
-//Exercicio Extra
+
